@@ -5,6 +5,6 @@
 
 ## introduction
 
-* [name 1](introduction/untitle123d.md)
-* [name 2](introduction/unti11tled.md)
+* [name 1](introduction/name-1.md)
+* [name 2](introduction/name-2.md)
 
