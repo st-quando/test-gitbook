@@ -1,6 +1,6 @@
-# Comparison
+# page 2
 
-## Thunk and Saga comparison
+## Thunk and Saga comparison 2
 
 | Aspect / type of Redux | Reduct Thunk | Redux Saga |
 | :--- | :--- | :--- |
