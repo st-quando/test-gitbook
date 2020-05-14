@@ -7,4 +7,5 @@
 
 * [name 1](introduction/name-1.md)
 * [name 2](introduction/name-2.md)
+* [name 3](introduction/name-3.md)
 
